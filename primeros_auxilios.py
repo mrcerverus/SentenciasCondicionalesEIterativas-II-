@@ -8,7 +8,7 @@ def evaluar_respuesta():
         abrir_via_aerea()
 
 def valorar_necesidad_hospital():
-    necesidad_hospital = input("Valorar la necesidad de llevar al hospital más cercano \n")
+    necesidad_hospital = print("Valorar la necesidad de llevar al hospital más cercano \n")
 
 def abrir_via_aerea():
     print("Abrir la vía aérea.")
